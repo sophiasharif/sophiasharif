@@ -12,5 +12,5 @@ I'm a Computer Science and Applied Math double major at UCLA. Check out my [pers
 |  Spring 2023  | [CS 33 - Intro to Computer Organization](https://github.com/sophiasharif/CS33) (A) <br> [CS 35L - Software Construction Lab](https://github.com/sophiasharif/CS35L) (A) <br> MATH 33A - Linear Algebra (A) <br> PHYSICS 1B - Oscillations, Waves, Electric and Magnetic Fields (A)   
 | Summer 2023 | [CS 180 - Algorithms & Complexity](https://github.com/sophiasharif/CS180) <br> [HIST 4 - Holocaust: History & Memory](https://github.com/sophiasharif/HIST5) <br> CS M51A - Logic Design of Digital Systems <br> PHYSICS 1C - Electrodynamics, Optics, and Special Relativity 
 
-![](https://view-counter.onrender.com/github-sophiasharif)
+![](https://view-counter.onrender.com/gh-sophiasharif)
 
