@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Sophia!
 
-I'm a Computer Science and Applied Math double major at UCLA. Check out my [personal website](https://sophiasharif.com/) to learn more about me!
+I'm a Computer Science major at UCLA. Check out my [personal website](https://sophiasharif.com/) to learn more about me!
 
 <h2>Classes I have taken</h2>
 <br>
